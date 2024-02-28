@@ -38,7 +38,7 @@ const aboutMe = {
 - 👔 Let's connect on [LinkedIn](https://www.linkedin.com/in/gbao-dev/)
 
 ### My Toolbox 🧰
-<div style="display:grid; gap: 30px;">
+<div style="display:grid; gap: 30px; margin: auto; grid-template-columns: repeat(3, 1fr);">
   <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
   <img align="left" alt="TypeScript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
   <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
