@@ -10,8 +10,8 @@ My drive for learning and using the latest tech leads me to constantly explore i
 const aboutMe = {
   name: "Bao",
   pronouns: "He/Him",
-  code: ["JavaScript", "TypeScript", "Python", "PHP", "HTML", "CSS"],
-  tools: ["React", "Next.js", "Vue.js", "Nuxt.js", "Node.js", "Django", "Laravel", "Git"],
+  code: ["JavaScript", "TypeScript", "Python", "Ruby", "Go", "PHP", "HTML", "CSS"],
+  tools: ["React.js", "Next.js", "Vue.js", "Nuxt.js", "Node.js", "Django", "Laravel", "Ruby on Rails", "Git"],
   databases: ["MySQL", "MongoDB", "DynamoDB", "Firestore"],
   cloud: ["AWS", "GCP", "Firebase"],
   architecture: [
