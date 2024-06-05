@@ -1,5 +1,5 @@
 
-# Hi there, I'm Bao! 👋
+# Hi there 👋
 
 ## Full-Stack Developer | Cloud Enthusiast | Tech Innovator
 
@@ -31,11 +31,6 @@ const aboutMe = {
 - **Real-Time Collaboration Tool** - Creating a platform with Firebase for seamless real-time interactions.
 - **Contributions to Open Source** - Engaging with the community on projects that drive forward web technology.
 
-
-### Connect with Me 🌐
-
-- ✉️ Say hi, shoot me an email at `gbao250104@gmail.com`
-- 👔 Let's connect on [LinkedIn](https://www.linkedin.com/in/gbao-dev/)
 
 ### My Toolbox 🧰
 <div style="display:grid; gap: 30px; margin: auto; grid-template-columns: repeat(3, 1fr);">
