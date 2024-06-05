@@ -8,7 +8,7 @@ My drive for learning and using the latest tech leads me to constantly explore i
 
 ```javascript
 const aboutMe = {
-  name: "Bao",
+  name: "White",
   pronouns: "He/Him",
   code: ["JavaScript", "TypeScript", "Python", "Ruby", "Go", "PHP", "HTML", "CSS"],
   tools: ["React.js", "Next.js", "Vue.js", "Nuxt.js", "Node.js", "Django", "Laravel", "Ruby on Rails", "Git"],
