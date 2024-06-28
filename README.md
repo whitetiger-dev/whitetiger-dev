@@ -10,8 +10,8 @@ My drive for learning and using the latest tech leads me to constantly explore i
 const aboutMe = {
   name: "White",
   pronouns: "He/Him",
-  code: ["JavaScript", "TypeScript", "Python", "Ruby", "Go", "PHP", "HTML", "CSS"],
-  tools: ["React.js", "Next.js", "Vue.js", "Nuxt.js", "Node.js", "Django", "Laravel", "Ruby on Rails", "Git"],
+  code: ["Java", "JavaScript", "TypeScript", "Python", "Ruby", "Go", "PHP", "HTML", "CSS"],
+  tools: ["React.js", "Next.js", "Vue.js", "Nuxt.js", "Spring boot", "Node.js", "Django", "Laravel", "Ruby on Rails", "Git"],
   databases: ["MySQL", "MongoDB", "DynamoDB", "Firestore"],
   cloud: ["AWS", "GCP", "Firebase"],
   architecture: [
@@ -34,12 +34,15 @@ const aboutMe = {
 
 ### My Toolbox 🧰
 <div style="display:grid; gap: 30px; margin: auto; grid-template-columns: repeat(3, 1fr);">
+  <img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+  <img align="left" alt="Go" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
   <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
   <img align="left" alt="TypeScript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
   <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
   <img align="left" alt="Next.js" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
   <img align="left" alt="Vue.js" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
   <img align="left" alt="Nuxt.js" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" />
+  <img align="left" alt="Spring" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
   <img align="left" alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
   <img align="left" alt="Nest.js" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" />
   <img align="left" alt="Django" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" />
